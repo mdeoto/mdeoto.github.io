@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mdeoto.github.io/sitemap.xml
+Sitemap: https://greenguru.github.io/sitemap.xml
