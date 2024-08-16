@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. L.S. Peña 342. +54 9 11 40805514
+subtitle: Oceanógrafo, Estudiante de doctorado
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Servicio Meteorológico Nacional</p>
+    <p>Av. Dorrego 4019</p>
+    <p>Buenos Aires</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Criado en los kilometros de San Carlos de Bariloche (BRC), soy Licenciado en Oceanografía y estudiante de Doctorado en Cs. de la Atmósfera y los Océanos por la FCEN/UBA. Actualmente formo parte del Staff de investigadores asistentes de la Dirección de Modelado Ambiental y de Sensores Remotos del [Servicio Meteorologico Nacional](https://www.smn.gob.ar/). Dentro de esta institución desarrollamos, en conjunto con diversos organismos, un sistema de pronóstico oceánico en el estado del arte [(PRONOMAR)](https://www.cima.fcen.uba.ar/pm/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Soy proactivo en el área de ciencia ciudadana y divulgación ambiental. Trabajé durante 3 años en el Centro Cultural de la Ciencia [(C3)](https://c3.jefatura.gob.ar/) brindando talleres ambientales destinados al público infantil. Actualmente, co‑dirigo [@greenguru.bariloche](https://www.instagram.com/greenguru.bariloche/), dedicada al público de montaña y navegación recreativa. También durante los últimos años incursioné en los medios radiofónicos y digitales locales como divulgador climático.
