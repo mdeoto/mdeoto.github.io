@@ -31,7 +31,7 @@
       description:
         - Modelado numérico de olas y nivel del mar
         - Pronóstico marino
-        - Sensoramiento Remoto oceánico: geoestacionario y polar
+        - "Sensoramiento Remoto oceánico: geoestacionario y polar"
 #        - title: Description 3.
 #          contents:
 #            - Sub-description 1.
@@ -39,10 +39,10 @@
 
     - title: Ayudante de 2da
       institution: Departamento de Ciencia de la Atmosfera y los Océanos, Universidad de Buenos Aires
-      year: 2015-2015
+      year: 2015-2017
       description:
         - Materia de servicio ICAO
-        - Metodo Numéricos en Cs. de la Atmósfera
+        - Métodos Numéricos en Cs. de la Atmósfera
 
     - title: Consultoría Energética
       institution: Aires Renewables
