@@ -5,6 +5,7 @@ date: 2021-05-21
 categories: [Meteorología, Oceanografía, Río de la Plata]
 tags: [storm surge, low system, extratropical cyclogenesis]
 image: /assets/img/storm_surge.jpg  # si tienes una imagen para el post
+disqus_comments: true
 ---
 
 En oceanografía y meteorología, como en cualquier otra rama de investigación es común utilizar definiciones para clasificar fenómenos, es un proceso de canalización del conocimiento. Sucede que muchas veces estas definiciones llegan a la sociedad de una forma intempestiva e incluso amarillista y obviamente nuestra actitud, nuestra decodificación del mensaje, en general no es la correcta. Es un problema que debemos mejorar, y de a poco se va haciendo…
