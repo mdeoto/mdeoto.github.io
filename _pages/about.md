@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Criado en los kilometros de San Carlos de Bariloche (BRC), soy Licenciado en Oceanografía y estudiante de Doctorado en Cs. de la Atmósfera y los Océanos por la FCEN/UBA. Actualmente formo parte del Staff de investigadores asistentes de la Dirección de Modelado Ambiental y de Sensores Remotos del Servicio Meteorologico Nacional ([SMN](https://www.smn.gob.ar/)) y soy coordinador regional de la Metarea-VI en la Organización Meteorologica Mundial.
+Criado en los kilometros de San Carlos de Bariloche (BRC), soy Licenciado en Oceanografía y estudiante de Doctorado en Cs. de la Atmósfera y los Océanos por la FCEN/UBA. Actualmente formo parte del Staff de investigadores asistentes de la Dirección de Modelado Ambiental y de Sensores Remotos del Servicio Meteorologico Nacional ([SMN](https://www.smn.gob.ar/)) y soy Coordinador Regional de la Metarea-VI ([OMM](https://community.wmo.int/en/WMO-Approved-METAREA-Coordinator-list)).
 
 Dentro del SMN estamos desarrollando, en conjunto con diversos organismos, un sistema de pronóstico oceánico en el estado del arte ([PRONOMAR](https://www.cima.fcen.uba.ar/pm/)). Otras actividades en las que me desenvuelvo actualmente es el modelado de la dispersión oceánica con vistas en la mejora del sistema SAR de la Prefectura Naval Argentina y en la observación remota oceánica, particularmente desde plataformas geoestacionarias.
 
