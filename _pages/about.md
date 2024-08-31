@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. L.S. Peña 342. +54 9 11 40805514
 subtitle: Oceanógrafo
 
 profile:
