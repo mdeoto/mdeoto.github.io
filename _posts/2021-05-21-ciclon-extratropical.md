@@ -3,7 +3,7 @@ layout: post
 title: "Ciclón extratropical"
 date: 2021-05-21
 categories: [Meteorología, Oceanografía, Río de la Plata]
-tags: [storm surge, low system, extratropical cyclogenesis, blockquotes]
+tags: [storm surge, low system, extratropical cyclogenesis]
 image: /assets/img/storm_surge.jpg  # si tienes una imagen para el post
 ---
 
