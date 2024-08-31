@@ -40,13 +40,11 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: true
+rss_icon: false #true
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
-
 navbar_fixed: true
 footer_fixed: true
 
@@ -105,7 +103,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Para pensar.
+#  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,8 +123,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog Misceláneo # blog_name will be displayed in your blog page
-blog_description: Promoviendo la conciencia social sobre el clima, la ciencia ambiental y su impacto en la vida diaria
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Misceláneas del tiempo y el clima en la vida diaria
 permalink: /blog/:year/:title/
 
 # Pagination
