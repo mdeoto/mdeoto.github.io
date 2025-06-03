@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climatología del viento en la Plataforma Continental Argentina: cuatro regímenes, muchas preguntas"
-date: 2025-06-03
+date: 2023-05-01
 categories: [Investigación, Oceanografía]
 tags: [viento, climatología, reanálisis, PCA, satélites, circulación costera]
 ---
