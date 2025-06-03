@@ -17,7 +17,7 @@ A través de un método de clustering jerárquico, se identificaron cuatro grand
 - **Confluencia**: zona de transición afectada por interacciones oceanográficas.
 - **La Plata**: dominado por vientos del este/noreste, estacionales y más suaves.
 
-![Clustering de regímenes](../assets/img/viento-pca-climatologia_fig_2.png)
+![Clustering de regímenes](/assets/img/viento-pca-climatologia_fig_2.png)
 
 ## Estacionalidad y variabilidad del viento
 
@@ -26,14 +26,14 @@ Cada región muestra un ciclo estacional distinto:
 - En Buenos Aires y Confluencia hay una estacionalidad marcada, con noroestes en invierno.
 - En La Plata se alternan easterlies en verano y westerlies en invierno.
 
-![Ciclo estacional del viento](../assets/img/viento-pca-climatologia_fig_4.png)
+![Ciclo estacional del viento](/assets/img/viento-pca-climatologia_fig_4.png)
 
 La descomposición de varianza revela que:
 - Patagonia está dominada por escalas subanuales y estacionales.
 - La Plata muestra alta variabilidad subanual.
 - La componente meridional pierde coherencia espacial a partir de 200 km.
 
-![Varianza por componentes](../assets/img/viento-pca-climatologia_fig_3.png)
+![Varianza por componentes](/assets/img/viento-pca-climatologia_fig_3.png)
 
 ## Tendencias de largo plazo
 
@@ -42,7 +42,7 @@ Durante los últimos 30 años:
 - Se reforzó el gradiente de presión sobre La Plata.
 - La región de Confluencia no muestra tendencias significativas.
 
-![Tendencias de viento y presión](../assets/img/viento-pca-climatologia_fig_5.png)
+![Tendencias de viento y presión](/assets/img/viento-pca-climatologia_fig_5.png)
 
 ## Diferencias entre datasets
 
@@ -50,7 +50,7 @@ La comparación entre reanálisis y satélites revela grandes diferencias cerca 
 - En invierno sobre el Río de la Plata.
 - En verano y primavera en Patagonia.
 
-![Variabilidad entre datasets](../assets/img/viento-pca-climatologia_fig_6.png)
+![Variabilidad entre datasets](/assets/img/viento-pca-climatologia_fig_6.png)
 
 Estas diferencias se relacionan con la resolución costera, la asimilación de datos y las limitaciones de los satélites cerca del litoral.
 
@@ -61,14 +61,14 @@ La comparación con observaciones de estaciones meteorológicas muestra:
 - Subestimación en el estuario.
 - Mejor representación de la componente zonal (u).
 
-![Comparación costera](../assets/img/viento-pca-climatologia_fig_7.png)
+![Comparación costera](/assets/img/viento-pca-climatologia_fig_7.png)
 
 ## ↔ Coherencia espacial
 
 - El viento zonal mantiene coherencia hasta 1000 km.
 - El viento meridional pierde coherencia a los 200 km.
 
-![Coherencia espacial](../assets/img/viento-pca-climatologia_fig_8.png)
+![Coherencia espacial](/assets/img/viento-pca-climatologia_fig_8.png)
 
 ## Agradecimientos
 
