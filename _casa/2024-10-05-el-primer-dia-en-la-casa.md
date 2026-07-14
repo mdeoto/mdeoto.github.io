@@ -2,8 +2,7 @@
 layout: post
 title: "El primer día en la casa"
 date: 2024-10-05
-categories: [La casa del tío Gustavo]
-tags: [restauración, bitácora, memoria, vivienda]
+description: "El ingreso a la casa, su estado inicial y la decisión de quedarse."
 ---
 
 # El primer día en la casa
