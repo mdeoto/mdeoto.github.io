@@ -165,7 +165,6 @@ disqus_shortname: https-mdeoto-github-io
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
 collections:
   news:
     defaults:
@@ -175,6 +174,9 @@ collections:
   projects:
     output: false #true
     permalink: /projects/:path/
+  casa:
+    output: true
+    permalink: /casa/:path/
 
 announcements:
   enabled: true

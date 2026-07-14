@@ -49,3 +49,23 @@ Esta es la historia de cómo una casa que parecía perdida volvió, poco a poco,
     Foto 2. La entrada. La puerta que separaba el abandono de todo lo que vendría después. Cruzarla por primera vez fue el comienzo de esta historia.
   </div>
 </div>
+
+---
+
+## Capítulos
+
+{% assign casa_posts = site.casa | sort: "date" | reverse %}
+
+{% for post in casa_posts %}
+
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.date | date: "%d/%m/%Y" }}
+
+{% if post.description %}
+{{ post.description }}
+{% endif %}
+
+---
+
+{% endfor %}
