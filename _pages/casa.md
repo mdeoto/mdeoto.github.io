@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-# La casa del tío Gustavo
+## La casa del tío Gustavo
 
 Esta es la bitácora de un proceso de restauración, pero también de recuperación de una historia.
 
